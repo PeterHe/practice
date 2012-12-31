@@ -1,2 +1,5 @@
 15-213 Introduction to Computer System
+15-651 Algorithms Design and Analysis
+18-730 Introduction to Computer Security
+14-740 Fundamentals of Telecommunication Networks
 
